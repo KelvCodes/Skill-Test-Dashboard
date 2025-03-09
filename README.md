@@ -17,4 +17,4 @@ A responsive and interactive dashboard built with **React** to display skill tes
 -  **FontAwesome**: Icons for the sidebar and buttons.
 
 ---
-
+## 🛠️ Installation
