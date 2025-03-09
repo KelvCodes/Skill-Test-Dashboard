@@ -10,4 +10,5 @@ A responsive and interactive dashboard built with **React** to display skill tes
 -   **🔄 Update Scores**: Allows users to update their rank, percentile, and score via a modal.
 
 ---
+## 🛠️ Technologies Used
 
