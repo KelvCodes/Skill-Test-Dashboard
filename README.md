@@ -18,3 +18,7 @@ A responsive and interactive dashboard built with **React** to display skill tes
 
 ---
 ## 🛠️ Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/skill-test-dashboard.git
