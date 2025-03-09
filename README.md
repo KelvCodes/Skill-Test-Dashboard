@@ -14,4 +14,5 @@ A responsive and interactive dashboard built with **React** to display skill tes
 - **React**: Front-end library for building user interfaces.
 - **Recharts**: Library for creating interactive charts.
 -  **CSS**: Custom styles for layout and design.
+-  **FontAwesome**: Icons for the sidebar and buttons.
 
