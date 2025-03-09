@@ -4,3 +4,4 @@ A responsive and interactive dashboard built with **React** to display skill tes
 
 ## 🚀 Features
 - **📝 Skill Test Overview**: Displays test details, rank, percentile, and correct answers.
+- **📈 Comparison Graph**: Visualizes user performance compared to others using a dynamic line chart.
