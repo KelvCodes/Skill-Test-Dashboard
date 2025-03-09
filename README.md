@@ -11,4 +11,5 @@ A responsive and interactive dashboard built with **React** to display skill tes
 
 ---
 ## 🛠️ Technologies Used
+- **React**: Front-end library for building user interfaces.
 
